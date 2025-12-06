@@ -292,27 +292,10 @@ data/
 - **Visualization enhancements**
   - Combine `geopandas`, `matplotlib`, or `folium` for publication-ready maps and heatmaps.
 
----
 
-## 11. Citation
-
-If you find this repository or Care-Net helpful in your research, please consider citing it:
-
-```text
-@misc{care_net_mclp,
-  title        = {Care-Net: CacheFormer-based Deep Reinforcement Learning for Equitable Maximum Covering Location Problem},
-  author       = {Anonymous},
-  year         = {2025},
-  howpublished = {Research code repository},
-}
-```
-
-> You may adapt the BibTeX entry once the corresponding paper is finalized.
-
----
-
-## 12. License & Acknowledgements
+## 11. License & Acknowledgements
 
 - This code is intended for academic research and teaching only; data copyrights remain with the original providers.
 - Some implementations are inspired by classic RL and location optimization repositories.
 - We gratefully acknowledge PyTorch, SciPy, NumPy, Matplotlib, GeoPandas, `tensorboard_logger`, and other open-source tools used in this project.
+
