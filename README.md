@@ -12,7 +12,7 @@
 
 ---
 
-This repository implements **Care-Net**, Coverage and Allocation with Reinforcement Learning for Human-Centric Elderly Facility Location Optimization**.  
+This repository implements **Care-Net**, Coverage and Allocation with Reinforcement Learning for Human-Centric Elderly Facility Location Optimization.  
 It combines a **CacheFormer-based encoder** with a **task-specific decoder** to learn facility layouts that jointly optimize **coverage performance** and **equity** given demand points and candidate facilities.
 
 ---
@@ -298,6 +298,7 @@ data/
 - This code is intended for academic research and teaching only; data copyrights remain with the original providers.
 - Some implementations are inspired by classic RL and location optimization repositories.
 - We gratefully acknowledge PyTorch, SciPy, NumPy, Matplotlib, GeoPandas, `tensorboard_logger`, and other open-source tools used in this project.
+
 
 
 
