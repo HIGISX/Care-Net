@@ -2,7 +2,7 @@
 
 # Care-Net: Coverage and Allocation with Reinforcement Learning for Human-Centric Elderly Facility Location Optimization
 
-**Care-Net: A CacheFormer-based Deep Reinforcement Learning Framework for the Maximum Covering Location Problem (MCLP)**  
+**Care-Net: Coverage and Allocation with Reinforcement Learning for Human-Centric Elderly Facility Location Optimization**  
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![DL](https://img.shields.io/badge/Deep%20RL-Policy%20Gradient-brightgreen.svg)]()  
@@ -298,4 +298,5 @@ data/
 - This code is intended for academic research and teaching only; data copyrights remain with the original providers.
 - Some implementations are inspired by classic RL and location optimization repositories.
 - We gratefully acknowledge PyTorch, SciPy, NumPy, Matplotlib, GeoPandas, `tensorboard_logger`, and other open-source tools used in this project.
+
 
