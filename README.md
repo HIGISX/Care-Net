@@ -14,7 +14,7 @@
 
 This repository implements **Care-Net**, Coverage and Allocation with Reinforcement Learning for Human-Centric Elderly Facility Location Optimization.  
 
-🎉 Our paper has been accepted by Geo-Spatial Information Science! You can read it [here]([xxxxx](https://doi.org/10.1080/10095020.2026.2710011)).
+🎉 Our paper has been accepted by Geo-Spatial Information Science! You can read it [here]([https://doi.org/10.1080/10095020.2026.2710011]).
 ---
 
 ## 1. Overall Workflow 
